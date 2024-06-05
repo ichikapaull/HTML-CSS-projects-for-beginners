@@ -18,7 +18,7 @@
 
 <h2 align="center"> Projects </h2>
 
-| Sıra | Kaynak Kod                     | Durum       |
+| Sıra | Source Code                     | Status       |
 | ---- | ------------------------------ | ----------- |
 | `00` | **[Profile Card UI Desing](https://github.com/ichikapaull/HTML-CSS-projects-for-beginners/tree/main/Profile%20Card%20UI%20Desing)** | `Completed` |
 | `01` | **[]()**                       | `Prepering` |

@@ -20,7 +20,7 @@
 
 | Sıra | Kaynak Kod                     | Durum       |
 | ---- | ------------------------------ | ----------- |
-| `00` | **[Profile Card UI Desing]()** | `Completed` |
+| `00` | **[Profile Card UI Desing](https://github.com/ichikapaull/HTML-CSS-projects-for-beginners/tree/main/Profile%20Card%20UI%20Desing)** | `Completed` |
 | `01` | **[]()**                       | `Prepering` |
 | `02` | **[]()**                       | `Prepering` |
 | `03` | **[]()**                       | `Prepering` |

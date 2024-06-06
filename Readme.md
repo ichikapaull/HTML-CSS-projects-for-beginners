@@ -21,8 +21,8 @@
 | Sıra | Source Code                     | Status       |
 | ---- | ------------------------------ | ----------- |
 | `00` | **[Profile Card UI Desing](https://github.com/ichikapaull/HTML-CSS-projects-for-beginners/tree/main/Profile%20Card%20UI%20Desing)** | `Completed` |
-| `01` | **[Flipping Card UI Design](https://github.com/ichikapaull/HTML-CSS-projects-for-beginners/tree/main/Profile%20Card%20UI%20Desing)**                       | `Prepering` |
-| `02` | **[]()**                       | `Completed` |
+| `01` | **[Flipping Card UI Design](https://github.com/ichikapaull/HTML-CSS-projects-for-beginners/tree/main/Profile%20Card%20UI%20Desing)**                       | `Completed` |
+| `02` | **[]()**                       | `Prepering` |
 | `03` | **[]()**                       | `Prepering` |
 | `04` | **[]()**                       | `Prepering` |
 | `05` | **[]()**                       | `Prepering` |
